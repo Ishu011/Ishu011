@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ishu 👋</h1>
-<h3 align="center">Aspiring Software Developer | | MERN Stack & ML Enthusiast | Open Source Contributor </h3>
+<h3 align="center">Aspiring Software Developer | MERN Stack & ML Enthusiast | Open Source Contributor </h3>
 
 ---
 
