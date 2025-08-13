@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ishu 👋</h1>
+<h1 align="center">Hi there, I am Ishu 👋</h1>
 
 ###  GitHub Stats & Streaks
 
